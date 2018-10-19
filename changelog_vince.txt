@@ -1,5 +1,12 @@
 Highlights & Device Specific Changes:
 Redmi 5 Plus(vince)|Maintainer: Lunik (L-ROM.RU)
+
+ Изменения в версии
+====================
+crDroid v5.0 10-19-2018
+====================
+     Новые Цветовые профили (От L-ROM)
+     Обновлены исходники
 ====================
 crDroid v5.0 10-18-2018
 ====================
