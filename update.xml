@@ -59,14 +59,14 @@
         <vince>
             <maintainer>Lunik (L-ROM.RU)</maintainer>
             <devicename>Redmi 5 Plus</devicename>
-            <filename>crDroidAndroid-9.0-20181024-vince-v5.0</filename>
+            <filename>crDroidAndroid-9.0-20181026-vince-v5.0</filename>
             <buildtype>Weekly</buildtype>
-            <download>https://cloud.mail.ru/public/gJ4c/pqFayj3EK</download>
+            <download>https://cloud.mail.ru/public/6GqG/m3gcfX7d5</download>
             <changelog>https://raw.githubusercontent.com/lunik1981/crDroidOTA/master/changelog_vince.txt</changelog>
             <gapps>https://opengapps.org/</gapps>
             <forum>http://l-rom.ru/forum/82-xiaomi-redmi-5-plus-464/</forum>
             <recovery>http://l-rom.ru/forum/82-xiaomi-redmi-5-plus-464/</recovery>
-            <paypal>https://www.paypal.me/lunik1980</paypal>
+            <paypal>https://money.yandex.ru/to/410015510998524</paypal>
             <telegram>https://t.me/lunik1980</telegram>
         </vince>
     </manufacturer>
